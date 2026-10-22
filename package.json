@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/GeorgeGarcia11UTRGV/CSCI-3330-Homework-5/issues"
   },
